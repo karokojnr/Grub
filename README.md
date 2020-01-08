@@ -2,11 +2,19 @@
 
 A mobile app developed in Flutter to demonstrate navigation. It show various meals and their respective ingredients and recipe.
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![Image of Spese](https://github.com/karokojnr/Grub/blob/master/grub1.jpeg)
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+![Image of Spese](https://github.com/karokojnr/Grub/blob/master/grub2.jpeg)
+<hr>
+
+![Image of Spese](https://github.com/karokojnr/Grub/blob/master/grub3.jpeg)
+<hr>
+
+
+A few resources for Flutter:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
@@ -27,5 +35,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/karokojnr/Spese/blob/master/LICENSE)
+[MIT](https://github.com/karokojnr/Grub/blob/master/LICENSE)
 
