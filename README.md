@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grub
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Grub
+A mobile app developed in Flutter to demonstrate navigation. It show various meals and their respective ingredients and recipe.
+>>>>>>> 9336c8bb69a57d2074cf7206fb75abc983e9abf8
