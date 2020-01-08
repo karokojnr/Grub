@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# grub
+# Grub😋 ![alt ](https://img.shields.io/badge/Grub-mobile--app-blue)
 
-A new Flutter project.
+A mobile app developed in Flutter to demonstrate navigation. It show various meals and their respective ingredients and recipe.
 
 ## Getting Started
 
@@ -15,7 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Grub
-A mobile app developed in Flutter to demonstrate navigation. It show various meals and their respective ingredients and recipe.
->>>>>>> 9336c8bb69a57d2074cf7206fb75abc983e9abf8
+
+## Uses
+
+- [x] Flutter
+- [x] Dart
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://github.com/karokojnr/Spese/blob/master/LICENSE)
+
